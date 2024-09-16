@@ -4,6 +4,10 @@
 
 layout: home
 ---
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinsantana11&count_private=true&show_icons=true&include_all_commits=true">
+
 
 Hi there! This is my personal homepage. Here you can find links to my resume, socials and projects I've previously worked on. Eventually I hope to make blog posts about things I find cool or interesting :)
 
