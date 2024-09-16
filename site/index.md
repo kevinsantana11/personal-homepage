@@ -13,7 +13,7 @@ Hi there! This is my personal homepage. Here you can find links to my resume, so
 
 
 # Links
-[**RESUME**](https://drive.google.com/file/d/1Cq-GoTqIPe_TC4N_4PLV_upiZkTOXA_L/view?usp=sharing)
+[**RESUME**](https://github.com/kevinsantana11/resume)
 
 [![Github - kevinsantana11](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsantana11)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kevinsantana11)
