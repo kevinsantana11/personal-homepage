@@ -8,6 +8,8 @@ layout: home
 
 <img src="https://github-readme-stats.vercel.app/api?username=kevinsantana11&count_private=true&show_icons=true&include_all_commits=true">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkevins-lab.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 Hi there! This is my personal homepage. Here you can find links to my resume, socials and projects I've previously worked on. Eventually I hope to make blog posts about things I find cool or interesting :)
 
