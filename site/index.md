@@ -4,11 +4,18 @@
 
 layout: home
 ---
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinsantana11&count_private=true&show_icons=true&include_all_commits=true">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkevins-lab.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding 10px;">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=kevinsantana11&count_private=true&show_icons=true&include_all_commits=true" alt="Github-Stats" />
+    </a>
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkevins-lab.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Hits" />
+    </a>
+</div>
 
 
 Hi there! This is my personal homepage. Here you can find links to my resume, socials and projects I've previously worked on. Eventually I hope to make blog posts about things I find cool or interesting :)
@@ -44,5 +51,3 @@ Worked alongside other students on a capstone project that aided visually impair
 
 ## [Clouddrift: a Python package to accelerate the use of Lagrangian data for atmospheric, oceanic, and climate sciences](https://joss.theoj.org/papers/10.21105/joss.06742)
 *Shane Elipot 1\*, Philippe Miron 2\*, Milan Curcic 1,3\*, Kevin Santana 1\*, and Rick Lumpkin 4\**
-
-Worked alongside other students on a class project where users viewed and liked images/posts where their stream was created based on their likes and defined preferences.
