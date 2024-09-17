@@ -37,15 +37,17 @@ Hi there! This is my personal homepage. Here you can find links to my resume, so
 ## [Clouddrift](https://github.com/Cloud-Drift/clouddrift)
 *2024* `Python, Numpy, Xarray, pandas`
 
-Lead library development where I developed cloud optimized ragged array dataset adapters, constructed data visualizations and presented a poster engaging the scientific community. I also helped improved the libraries robustness by increasing test coverage and implementing static analysis tools like mypy and ruff that help prevent bugs and maintain a fixed styling. 
+Lead library development implementing cloud optimized ragged array dataset adapters, developing data visualizations and presenting a poster engaging the scientific community at SciPy 2024. Alongside these contributions I also helped bolster the libraries test suite and added static analysis tools to improve robustness.
 
 ## [Lead the Way](https://gitlab.com/lead_the_way)
 *2018 - 2019* `Swift, iOS, Vapor framework`
 
-Worked alongside other students on a capstone project that aided visually impaired individuals navigate indoor locations using haptic and audio feedback by leveraging CAD drawings.
+Developed an iOS mobile application providing indoor navigation with haptic and audio feedback.
 
 ## [Musu](https://github.com/kevinsantana11/musu-android)
 *2018* `Java, Android`
+
+Build mobile/web application similar to instagram.
 
 # Publications
 
