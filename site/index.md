@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 0 0 50px 0;">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
     </a>
