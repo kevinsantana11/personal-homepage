@@ -35,17 +35,17 @@ Hi there! This is my personal homepage. Here you can find links to my resume, so
 # Projects
 
 ## [Clouddrift](https://github.com/Cloud-Drift/clouddrift)
-*2024* `Python, Numpy, Xarray, pandas`
+*2024*
 
 Lead library development implementing cloud optimized ragged array dataset adapters, developing data visualizations and presenting a poster engaging the scientific community at SciPy 2024. Alongside these contributions I also helped bolster the libraries test suite and added static analysis tools to improve robustness.
 
 ## [Lead the Way](https://gitlab.com/lead_the_way)
-*2018 - 2019* `Swift, iOS, Vapor framework`
+*2018 - 2019*
 
 Developed an iOS mobile application providing indoor navigation with haptic and audio feedback.
 
 ## [Musu](https://github.com/kevinsantana11/musu-android)
-*2018* `Java, Android`
+*2018*
 
 Build mobile/web application similar to instagram.
 
@@ -53,3 +53,7 @@ Build mobile/web application similar to instagram.
 
 ## [Clouddrift: a Python package to accelerate the use of Lagrangian data for atmospheric, oceanic, and climate sciences](https://joss.theoj.org/papers/10.21105/joss.06742)
 *Shane Elipot 1\*, Philippe Miron 2\*, Milan Curcic 1,3\*, Kevin Santana 1\*, and Rick Lumpkin 4\**
+
+# Presentations
+
+## [Scipy 2024 Poster Presentation: Accelerating the use of Lagrangian data with Clouddrift](https://github.com/Cloud-Drift/scipy-2024-poster)
