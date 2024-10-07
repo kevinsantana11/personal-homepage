@@ -53,10 +53,12 @@ Build mobile/web application similar to instagram.
 <br>
 ## [Scipy 2024 Poster Presentation: Accelerating the use of Lagrangian data with Clouddrift](https://github.com/Cloud-Drift/scipy-2024-poster)
 
-# Dynamic
+# Mostly Fun
 ---
 <br>
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 0 0 50px 0;">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&title=Availability&src=a2V2aW5zYW50YW5hMTFAZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZTcxNDBodWhybHRpdjBxMjk3a28wZzU5bWtzdGxhYWdAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=NWswNWNhYjZpdmgzZTRpZDJqYjA0N250cGU4YmFubmVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB&color=%2333B679&color=%238E24AA&color=%23F09300&color=%230B8043" style="border:solid 1px #777" width="750" height="600" frameborder="0" scrolling="no"></iframe>
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
     </a>
