@@ -11,7 +11,7 @@ docker build --tag=dev-jekyll-homepage .
 1. Power up the dev container and start up the application. It should be noted that Jekyll supports hot reloads. 
 ```bash
 docker run \
--v /home/ksantana/Sources/personal-homepage/site:/srv/personal-homepage \
+-v /home/ksantana/Sources/personal-homepage/site:/home/personal-homepage \
 -p 8080:4000 \
 -td \
 dev-jekyll-homepage:latest
