@@ -62,11 +62,5 @@ Build mobile/web application similar to instagram.
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=kevinsantana11&count_private=true&show_icons=true&include_all_commits=true" alt="Github-Stats" />
-    </a>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkevins-lab.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page%20Views&edge_flat=false" alt="Hits" />
-    </a>
 </div>
 
