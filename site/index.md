@@ -8,7 +8,7 @@ layout: home
 # Intro
 ---
 <br>
-Hi there! My is `Kevin Santana` and welcome to my **personal homepage**. Here you can find links to my resume, socials and projects I've previously worked on. I've also added a fun section at the bottom that displays dynamic information like what I'm listening to, github stats, and, total page views (mostly just me for now).
+Hi there! My is `Kevin Santana` and welcome to my **personal homepage**. Here you can find links to my resume, socials and projects I've previously worked on. I've also added a fun section at the bottom that displays dynamic information like what I'm listening to.
 
 # Links
 ---
@@ -54,6 +54,8 @@ Build mobile/web application similar to instagram.
 <br>
 ## [Scipy 2024 Poster Presentation: Accelerating the use of Lagrangian data with Clouddrift](https://github.com/Cloud-Drift/scipy-2024-poster)
 
+# Misc
+---
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 0 0 50px 0;">
