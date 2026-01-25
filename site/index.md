@@ -9,12 +9,17 @@ layout: home
 ---
 <br>
 Hi there! My is `Kevin Santana` and welcome to my **personal homepage**. Here you can find links to my resume, socials and projects I've previously worked on. I've also added a fun section at the bottom that displays dynamic information like what I'm listening to, github stats, and, total page views (mostly just me for now).
+<br>
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 0 0 50px 0;">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
+    </a>
+</div>
 
 # Links
 ---
 <br>
-[**RESUME**](https://github.com/kevinsantana11/resume)
 
 [![Github - kevinsantana11](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsantana11)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kevinsantana11)
@@ -53,14 +58,3 @@ Build mobile/web application similar to instagram.
 ---
 <br>
 ## [Scipy 2024 Poster Presentation: Accelerating the use of Lagrangian data with Clouddrift](https://github.com/Cloud-Drift/scipy-2024-poster)
-
-# Mostly Fun
----
-<br>
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 0 0 50px 0;">
-    <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317r6vwh6butvzigdpl4zsv5rpz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify-Spotlight" />
-    </a>
-</div>
-
