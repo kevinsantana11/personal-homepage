@@ -21,6 +21,8 @@ Hi there! My is `Kevin Santana` and welcome to my **personal homepage**. Here yo
 ---
 <br>
 
+[RESUME](https://docs.google.com/document/d/1zVoK5XnZkKCEGlKhowfgCjEI8XX_KAFs0ISYCjzPZSk/edit?usp=sharing)
+
 [![Github - kevinsantana11](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsantana11)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kevinsantana11)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kevinsantana11/)
